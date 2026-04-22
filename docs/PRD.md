@@ -1,4 +1,4 @@
-# service.supabase.v2 PRD
+# sharedrop PRD
 
 > **한 줄 요약**: Supabase 인증 + Next.js 14 기반의 사용자/관리자 분리 풀스택 스타터킷
 > **작성일**: 2026-04-22 | **상태**: 개발 진행 중

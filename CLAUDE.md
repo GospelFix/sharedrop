@@ -7,7 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 두 개의 독립적인 Next.js 앱으로 구성된 모노레포:
 
 ```
-service.supabase.v2/
+sharedrop/
 ├── frontend/    # 사용자 앱 (포트 3000)
 └── admin/       # 관리자 앱 (포트 3001)
 ```
